@@ -2,3 +2,4 @@
 - VSCode から GitHub にリポジトリを発行
 - 変更を加える
 - VS codeから編集
+- GitHubから編集
